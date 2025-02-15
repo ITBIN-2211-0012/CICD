@@ -1,0 +1,7 @@
+import request
+import time
+from bs4 import BeautifulSoup #Import BeautifulSoup for HTML parsing 
+
+#Fetch data from the given URL
+def fetch_data(url) :
+try
